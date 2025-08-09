@@ -1,0 +1,23 @@
+Python Module 3 – Assignment
+This repository contains two Python scripts created for Module 2 of the course:
+
+Task 1: Even or Odd Checker
+File: even_or_odd.py
+
+Takes a number as input from the user
+Checks whether the number is even or odd using the modulus operator (%)
+Prints the result in a clear sentence
+
+Task 2: Sum of Numbers from 1 to 50
+File: sum_1_to_50.py
+
+Iterates through numbers from 0 to 50 using a for loop
+Calculates the total sum during iteration
+Prints the running total and the final sum of numbers from 1 to 50
+
+How to Run
+Make sure Python is installed. Then run from terminal or inside PyCharm:
+
+bash
+python even_or_odd.py
+python sum_1_to_50.py
